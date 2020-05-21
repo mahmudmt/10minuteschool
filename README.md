@@ -8,15 +8,15 @@ Clone or download this repository and open index.html with a browser. Let's see 
 
 ### What you learn from this source code?
 
-- [x] University website structure
+- [x] 1o minute school website structure
 - [x] Advance javascripts funstions
 - [ ] Javascripts framework
 - [x] More css classes
 - [x] Responsive designs
 - [x] Tab items
-- [x] Pdf viewer and downloads
+- [ ] Pdf viewer and downloads
 - [x] Smooth schrolling
-- [x] Article side items nevigate
+- [ ] Article side items nevigate
 - [ ] Javascripts back-end
 
 
