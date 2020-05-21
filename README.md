@@ -1,7 +1,7 @@
 # Robi 10 minute school
 ###### Robi 10 minute school website design.
 
-![Image of homeage of this repository](https://github.com/nasim-007/robi10minute/blob/master/robihome.png)
+
 
 ### How to run
 Clone or download this repository and open index.html with a browser. Let's see magic! It's totally static no back-end.
